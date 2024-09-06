@@ -611,6 +611,13 @@ header #media_logos a:hover .logo {
   transition: all .3s linear;
 }
 
+@media (max-width: 768px) {
+  .section4 .sec4-container{
+      width: 100%;
+      border-radius: 0;
+  }
+}
+
 /* --- End of section4 styles --- */
 
 
